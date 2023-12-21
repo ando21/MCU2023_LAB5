@@ -1,0 +1,4 @@
+../Core/Src/software_timer.c:13:6:initTimerCycle	1
+../Core/Src/software_timer.c:17:6:setTimer1	1
+../Core/Src/software_timer.c:22:6:setTimer2	1
+../Core/Src/software_timer.c:27:6:timerRun	3
